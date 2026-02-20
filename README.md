@@ -16,9 +16,12 @@
 6. Построение boxplot с распределением результатов экзаменов по категориям
 
 ## Предпросмотр проекта
-[Открыть PDF](main.pdf)
-
-[Открыть HTML](https://htmlpreview.github.io/?https://github.com/AleksandrExists/Students-Performance-in-Exams/blob/main/main.html)
+[![PDF](https://img.shields.io/badge/PDF-EC1C24?logo=adobeacrobatreader&logoColor=white)](main.pdf)
+[![HTML](https://img.shields.io/badge/HTML-E34F26?logo=html&logoColor=white)](https://htmlpreview.github.io/?https://github.com/AleksandrExists/Students-Performance-in-Exams/blob/main/main.html)
 
 ## Автор
 [![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/AleksandrExists)
+
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?logo=kaggle&logoColor=white)](https://www.kaggle.com/aleksandrexists)
+
+[![Telegram](https://img.shields.io/badge/Telegram-26A5E4?logo=telegram&logoColor=white)](https://t.me/AleksandrExists)
